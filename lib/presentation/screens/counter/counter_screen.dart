@@ -45,6 +45,7 @@ class _CounterScreenState extends State<CounterScreen> {
               // }else {
               //   clickName = 'Clickcs';
               // }
+              
             });
             // clickCounter = clickCounter +1;
           },
